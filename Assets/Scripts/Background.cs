@@ -4,7 +4,7 @@ using UnityEngine.Serialization;
 public class Background : MonoBehaviour
 {
     public float With = 19.2f; // 배경의 너비
-    public float Speed = 2; // 배경의 속도
+    public float Speed = 3; // 배경의 속도
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
